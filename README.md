@@ -1,8 +1,13 @@
-# React + Vite
+# E-commerce Web application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an e-commerce web application in which a Product API is being called and being rendered.
 
-Currently, two official plugins are available:
+There are many features in this application.
+1) Authentication is implemented in this app through local Storage.
+2) Wishlist is added through Redux.
+3) Cart feature is also added.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies used in this app.
+1)React
+2)Redux
+3)React icons
