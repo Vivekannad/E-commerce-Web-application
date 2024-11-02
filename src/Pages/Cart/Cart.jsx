@@ -1,5 +1,4 @@
 import React, { useContext, useEffect, useState } from 'react';
-import { CardContext } from '../../Context/CardContext';
 import {Link} from 'react-router-dom'
 import { useSelector, useDispatch } from 'react-redux';
 import { cartExport,  increaseCartNumber, cartItemQuantity,decreaseCartNumber, removeFromCart } from '../../Slice Container/cartSlice';
